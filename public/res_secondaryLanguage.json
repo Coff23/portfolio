@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Cześć",
-      "description": "👋 Jestem Joshua Coffey. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description": "👋 Jestem Joshua Coffey. Dobrý den, nedávno jsem odešel z armády, kde jsem pracoval na dronech a systémech dronů. Jsem webový vývojář, který se učí przeciwko Code Fellows. Zajímám se o vývoj, protože miluji počítače a pro mou rodinu a pro mě by to byl lepší život",
       "section_name": {
         "about": "O mnie",
         "projects": "Projekty",
@@ -11,9 +11,9 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Grocery Grabber",
+        "startDate": "2023",
+        "description": "Pierwszy projekt zespołowy, nad którym pracowałem w Code Fellows. Byłem odpowiedzialny za większość funkcjonalności serwisu.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
