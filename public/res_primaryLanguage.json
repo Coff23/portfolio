@@ -21,16 +21,16 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
         ]
       },
@@ -81,37 +81,28 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows Student",
+        "title": "Full Stack Developer",
+        "years": "2.2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "CSS 3",
+          "HTML 5"
         ]
       },
       {
-        "company": "Serros Solutions",
+        "company": "NA",
         "title": "Intern",
         "years": "01.2018 - 09.2019",
         "mainTech": [
-          "Angular 7/8"
+          "JavaScript"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+
         ]
       }
     ]
